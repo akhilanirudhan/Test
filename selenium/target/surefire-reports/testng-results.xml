@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-21T19:46:30 GMT-07:00" name="com.selenium_test.TestOne" finished-at="2023-03-21T19:46:30 GMT-07:00" duration-ms="117">
+    <groups>
+    </groups>
+    <test started-at="2023-03-21T19:46:30 GMT-07:00" name="Command line test" finished-at="2023-03-21T19:46:30 GMT-07:00" duration-ms="117">
+      <class name="com.selenium_test.TestOne">
+        <test-method is-config="true" signature="testone()[pri:0, instance:com.selenium_test.TestOne@d35dea7]" started-at="2023-03-21T19:46:30 GMT-07:00" name="testone" finished-at="2023-03-21T19:46:30 GMT-07:00" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testone -->
+        <test-method signature="testfive()[pri:0, instance:com.selenium_test.TestOne@d35dea7]" started-at="2023-03-21T19:46:30 GMT-07:00" name="testfive" finished-at="2023-03-21T19:46:30 GMT-07:00" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testfive -->
+        <test-method signature="testtwo()[pri:0, instance:com.selenium_test.TestOne@d35dea7]" started-at="2023-03-21T19:46:30 GMT-07:00" name="testtwo" finished-at="2023-03-21T19:46:30 GMT-07:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testtwo -->
+        <test-method signature="testthree()[pri:1, instance:com.selenium_test.TestOne@d35dea7]" started-at="2023-03-21T19:46:30 GMT-07:00" name="testthree" finished-at="2023-03-21T19:46:30 GMT-07:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testthree -->
+        <test-method is-config="true" signature="testfour()[pri:0, instance:com.selenium_test.TestOne@d35dea7]" started-at="2023-03-21T19:46:30 GMT-07:00" name="testfour" finished-at="2023-03-21T19:46:30 GMT-07:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testfour -->
+      </class> <!-- com.selenium_test.TestOne -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.selenium_test.TestOne -->
+</testng-results>
